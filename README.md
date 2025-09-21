@@ -119,8 +119,8 @@ My focus is on **Cypress-first automation**, **release quality**, and **fast fee
 
 ---
 ## ✍️ Latest Blog Posts  
-- [Why Cypress? The Tool I Trust as a Frontend Tester](https://medium.com/@bhavan0507/why-cypress-the-tool-i-trust-as-a-frontend-tester-12345)  
-- [Agile QA: What I Actually Do During a Sprint](https://medium.com/@bhavan0507/agile-qa-what-i-actually-do-during-a-sprint-67890)  
+- [Why Cypress? The Tool I Trust as a Frontend Tester](https://medium.com/@bhavan0507/by-bhavanandhan-radhakrishnan-software-test-engineer-0f8d4795a3b3)  
+- [Agile QA: What I Actually Do During a Sprint](https://medium.com/@bhavan0507/why-qa-is-more-than-just-testing-in-agile-projects-3eef8555c733)  
 
 ---
 
