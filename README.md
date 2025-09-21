@@ -53,46 +53,6 @@ My focus is on **Cypress-first automation**, **release quality**, and **fast fee
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <b>QA Team Lead</b><br/>
-      <a href="https://npi.ie/" target="_blank">
-        <img src="https://logo.clearbit.com/npi.ie" alt="NPI" height="16" style="vertical-align:middle; margin-right:6px;" />
-        New Payment Innovation
-      </a>, Dublin, Ireland<br/>
-      <sub>Sept 2025 – Present</sub>
-    </td>
-    <td>
-      <b>Software Test Engineer</b><br/>
-      <a href="https://npi.ie/" target="_blank">
-        <img src="https://logo.clearbit.com/npi.ie" alt="NPI" height="16" style="vertical-align:middle; margin-right:6px;" />
-        New Payment Innovation
-      </a>, Dublin, Ireland<br/>
-      <sub>2024 – Sept 2025</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Associate Analyst</b><br/>
-      <a href="https://www2.deloitte.com/" target="_blank">
-        <img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte" height="16" style="vertical-align:middle; margin-right:6px;" />
-        Deloitte
-      </a>, Hyderabad, India<br/>
-      <sub>2021 – 2023</sub>
-    </td>
-    <td>
-      <b>Intern</b><br/>
-      <a href="https://mediusservices.com/" target="_blank">
-        <img src="https://logo.clearbit.com/mediusservices.com" alt="Medius Services" height="16" style="vertical-align:middle; margin-right:6px;" />
-        Medius Services
-      </a>, California, United States<br/>
-      <sub>2019 – 2020</sub>
-    </td>
-  </tr>
-</table>
-
-
 ## 🛠️ Tech Stack
 ### **Languages & Frameworks**
 <p>
