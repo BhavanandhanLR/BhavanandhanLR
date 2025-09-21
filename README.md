@@ -43,34 +43,44 @@ My focus is on **Cypress-first automation**, **release quality**, and **fast fee
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cs,html,css,bootstrap&ts=1" height="48" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&ts=1" height="40" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&ts=1" height="40" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs&ts=1" height="40" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&ts=1" height="40" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&ts=1" height="40" /></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" /></a>
 </p>
 
 ### **QA & Automation**
 <p>
-  <!-- keep Cypress separate for reliability -->
-  <img src="https://skillicons.dev/icons?i=cypress&theme=light&perline=1&ts=1" height="48" />
-  <img src="https://skillicons.dev/icons?i=postman,git,githubactions,graphql&ts=1" height="48" />
-  <img src="https://img.shields.io/badge/Bugsnag-4949E4?style=for-the-badge&logo=bugsnag&logoColor=white" />
-  <img src="https://img.shields.io/badge/Micro%20Focus%20UFT-0A0A0A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/ALM%20Octane-FF6A00?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <!-- keep Cypress on its own tag for reliability -->
+  <a href="https://www.cypress.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cypress&theme=light&ts=1" height="40" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&ts=1" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&ts=1" height="40" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&ts=1" height="40" /></a>
+  <a href="https://graphql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=graphql&ts=1" height="40" /></a>
+  <a href="https://www.bugsnag.com/" target="_blank"><img src="https://img.shields.io/badge/Bugsnag-4949E4?style=for-the-badge&logo=bugsnag&logoColor=white" height="28" /></a>
+  <a href="https://www.opentext.com/products/uft-one" target="_blank"><img src="https://img.shields.io/badge/UFT%20One-0A0A0A?style=for-the-badge&logo=testinglibrary&logoColor=white" height="28" /></a>
+  <a href="https://www.opentext.com/products/alm-octane" target="_blank"><img src="https://img.shields.io/badge/ALM%20Octane-FF6A00?style=for-the-badge&logo=jira&logoColor=white" height="28" /></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" /></a>
 </p>
 
 ### **Databases & Cloud**
 <p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=mysql,aws&ts=1" height="48" />
-  <img src="https://img.shields.io/badge/Infor%20ION-00457C?style=for-the-badge&logo=databricks&logoColor=white" />
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&ts=1" height="40" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&ts=1" height="40" /></a>
+  <a href="https://www.infor.com/products/ion" target="_blank"><img src="https://img.shields.io/badge/Infor%20ION-00457C?style=for-the-badge&logo=databricks&logoColor=white" height="28" /></a>
 </p>
 
 ### **Tools & Reporting**
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mochawesome-0A0A0A?style=for-the-badge&logo=mocha&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell&ts=1" height="48" />
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" /></a>
+  <a href="https://github.com/adamgruber/mochawesome" target="_blank"><img src="https://img.shields.io/badge/Mochawesome-0A0A0A?style=for-the-badge&logo=mocha&logoColor=white" height="28" /></a>
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&ts=1" height="40" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio&ts=1" height="40" /></a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&ts=1" height="40" /></a>
 </p>
 
 ---
