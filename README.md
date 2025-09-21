@@ -4,10 +4,7 @@ Based in Dublin
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavanandhanlr)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhavan0507)  
----
-
 ## ⚡ About Me  
-
 **QA Team Lead** passionate about building test frameworks that scale with products.  
 My focus is on **Cypress-first automation**, **release quality**, and **fast feedback pipelines**.  
 
@@ -19,28 +16,20 @@ My focus is on **Cypress-first automation**, **release quality**, and **fast fee
 - 📦 Accountable for **release readiness and production sign-off**, making quality a shared responsibility.  
 - 📝 Balancing **automation depth** with **thorough manual exploration**, ensuring no critical paths are missed.  
 
----
-
 ## 🌟 Key Highlights  
-
 - ⚡ **3+ years** in QA & Automation (Deloitte + NPI)  
 - 🧪 **80%+ regression automation** coverage achieved  
 - 🔗 **200+ integrations & data migrations objects** delivered  
 - 🚀 **Cross-region QA strategies** implemented for scalable delivery  
 - 📊 **End-to-end visibility** with reporting dashboards & analytics
-- ---
 
 ## 💼 Experience  
-
 - **QA Team Lead** — New Payment Innovation (Sept 2025 – Present)
 - **Software Test Engineer** — New Payment Innovation (2024– Sept 2025)
 - **Associate Analyst** — Deloitte (2021–2023)  
 - **Intern** — Medius Services, USA (2019–2020)  
 
----
-
 ## 🛠️ Tech Stack
-
 ### **Languages & Frameworks**
 <p>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&ts=1" height="40" /></a>
@@ -83,10 +72,7 @@ My focus is on **Cypress-first automation**, **release quality**, and **fast fee
   <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&ts=1" height="40" /></a>
 </p>
 
----
-
 ## 📜 Certifications
-
 <table>
   <tr>
      <td width="50%">
@@ -115,13 +101,8 @@ My focus is on **Cypress-first automation**, **release quality**, and **fast fee
   </tr>
 </table>
 
-
-
----
 ## ✍️ Latest Blog Posts  
 - [Why Cypress? The Tool I Trust as a Frontend Tester](https://medium.com/@bhavan0507/by-bhavanandhan-radhakrishnan-software-test-engineer-0f8d4795a3b3)  
 - [Agile QA: What I Actually Do During a Sprint](https://medium.com/@bhavan0507/why-qa-is-more-than-just-testing-in-agile-projects-3eef8555c733)  
-
----
 
 > 📝 *“Tests don’t just catch bugs they build confidence.”*  
