@@ -23,7 +23,7 @@
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,bootstrap&ts=1" height="48" />
+  <img src="https://skillicons.dev/icons?i=js,python,cs,html,css,bootstrap&ts=1" height="48" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
