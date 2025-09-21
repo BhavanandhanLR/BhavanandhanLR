@@ -9,13 +9,35 @@
 ---
 
 ## ⚡ About Me  
-- 🚀 Leading QA efforts to design, scale, and maintain automation frameworks using **Cypress**.  
-- 🔗 Building **CI/CD pipelines** that deliver faster feedback and stable releases.  
-- 🧪 Specialized in **E2E, API, and data-driven testing** with minimal flakiness.  
-- 📊 Experienced in **reporting & analytics** 
-- 🎯 Result-oriented: automated **80%+ regression coverage** at Deloitte, built cross-region test strategies at NPI.  
-- 📦 Accountable for **release readiness & sign-off**, ensuring production stability.  
-- 📝 Skilled in **thorough manual testing** for edge cases and business flows, preventing critical issues from reaching production.  
+
+**QA Team Lead** passionate about building test frameworks that scale with products.  
+My focus is on **Cypress-first automation**, **release quality**, and **fast feedback pipelines**.  
+
+- 🚀 Designing and maintaining **Cypress automation frameworks** that cut regression time by 70%.  
+- 🔗 Building **CI/CD pipelines** with GitHub Actions, ensuring reliable and stable deployments.  
+- 🧪 Specializing in **E2E, API, and data-driven testing**, with a focus on reducing flaky tests.  
+- 📊 Intrested in delivering actionable insights with **Mochawesome** for test report and **Power BI reporting** for rest.  
+- 🎯 Proven track record: automated **80%+ regression coverage** at Deloitte, and driving **cross-region QA strategies** at NPI.  
+- 📦 Accountable for **release readiness and production sign-off**, making quality a shared responsibility.  
+- 📝 Balancing **automation depth** with **thorough manual exploration**, ensuring no critical paths are missed.  
+
+---
+
+## 🌟 Key Highlights  
+
+- ⚡ **3+ years** in QA & Automation (Deloitte + NPI)  
+- 🧪 **80%+ regression automation** coverage achieved  
+- 🔗 **200+ integrations & data migrations objects** delivered  
+- 🚀 **Cross-region QA strategies** implemented for scalable delivery  
+- 📊 **End-to-end visibility** with reporting dashboards & analytics
+- ---
+
+## 💼 Experience  
+
+- **QA Team Lead** — New Payment Innovation (Sept 2025 – Present)
+- **Software Test Engineer** — New Payment Innovation (2024– Sept 2025)
+- **Associate Analyst** — Deloitte (2021–2023)  
+- **Intern** — Medius Services, USA (2019–2020)  
 
 ---
 
@@ -29,8 +51,10 @@
 
 ### **QA & Automation**
 <p>
+  <!-- keep Cypress separate for reliability -->
   <img src="https://skillicons.dev/icons?i=cypress&theme=light&perline=1&ts=1" height="48" />
-  <img src="https://skillicons.dev/icons?i=postman,git,githubactions" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman,git,githubactions,graphql&ts=1" height="48" />
+  <img src="https://img.shields.io/badge/Bugsnag-4949E4?style=for-the-badge&logo=bugsnag&logoColor=white" />
   <img src="https://img.shields.io/badge/Micro%20Focus%20UFT-0A0A0A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
   <img src="https://img.shields.io/badge/ALM%20Octane-FF6A00?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
@@ -51,19 +75,37 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell&ts=1" height="48" />
 </p>
 
-
 ---
 
 ## 📜 Certifications
 
-<p align="left">
-  <a href="#"><img alt="PL-300"
-    src="https://img.shields.io/badge/Microsoft%20Power%20BI%20Data%20Analyst-217346?style=for-the-badge&logo=powerbi&logoColor=white"></a>
-  <a href="#"><img alt="Oracle PL/SQL Developer"
-    src="https://img.shields.io/badge/Oracle%20PL%2FSQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
-  <a href="#"><img alt="DataCamp SQL Data Analyst"
-    src="https://img.shields.io/badge/DataCamp%20-%20SQL%20Data%20Analyst-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"></a>
-</p>
+<table>
+  <tr>
+     <td width="50%">
+      <!-- Power BI (official glyph) tends to render reliably on GitHub -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="28" />
+      <b>&nbsp;Microsoft Power BI Data Analyst (PL-300)</b><br/>
+      <sub>Issued by Microsoft</sub>
+    </td>
+    <td width="50%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="80"/>  
+      <b>Oracle PL/SQL Developer</b>  
+      <br><sub>Issued by Oracle</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datacamp.svg" width="40"/>  
+      <b>SQL Data Analyst</b>  
+      <br><sub>Issued by DataCamp</sub>
+    </td>
+    <td width="50%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" width="80"/>  
+      <b>Power BI | Scrum Master | SQL | Python</b>  
+      <br><sub>Issued by Udemy</sub>
+    </td>
+  </tr>
+</table>
 
 
 
