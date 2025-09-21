@@ -74,4 +74,4 @@
 
 ---
 
-> 📝 *“Tests don’t just catch bugs — they build confidence.”*  
+> 📝 *“Tests don’t just catch bugs they build confidence.”*  
