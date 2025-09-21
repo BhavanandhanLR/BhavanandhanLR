@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bhavan  
 
-💻 **QA Team Lead** | 🌍 Based in Dublin  
+Based in Dublin  
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavanandhanlr)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhavan0507)  
