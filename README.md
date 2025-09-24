@@ -8,20 +8,20 @@ Based in Dublin
 **QA Team Lead** passionate about building test frameworks that scale with products.  
 My focus is on **Cypress-first automation**, **release quality**, and **fast feedback pipelines**.  
 
-- 🚀 Designing and maintaining **Cypress automation frameworks** that cut regression time by 70%.  
-- 🔗 Building **CI/CD pipelines** with GitHub Actions, ensuring reliable and stable deployments.  
-- 🧪 Specializing in **E2E, API, and data-driven testing**, with a focus on reducing flaky tests.  
-- 📊 Intrested in delivering actionable insights with **Mochawesome** for test report and **Power BI reporting** for rest.  
-- 🎯 Proven track record: automated **80%+ regression coverage** at Deloitte, and driving **cross-region QA strategies** at NPI.  
-- 📦 Accountable for **release readiness and production sign-off**, making quality a shared responsibility.  
-- 📝 Balancing **automation depth** with **thorough manual exploration**, ensuring no critical paths are missed.  
+- Designing and maintaining **Cypress automation frameworks** that cut regression time by 70%.  
+- Building **CI/CD pipelines** with GitHub Actions, ensuring reliable and stable deployments.  
+- Specializing in **E2E, API, and data-driven testing**, with a focus on reducing flaky tests.  
+- Intrested in delivering actionable insights with **Mochawesome** for test report and **Power BI reporting** for rest.  
+- Proven track record: automated **80%+ regression coverage** at Deloitte, and driving **cross-region QA strategies** at NPI.  
+- Accountable for **release readiness and production sign-off**, making quality a shared responsibility.  
+- Balancing **automation depth** with **thorough manual exploration**, ensuring no critical paths are missed.  
 
 ## 🌟 Key Highlights  
-- ⚡ **3+ years** in QA & Automation (Deloitte + NPI)  
-- 🧪 **80%+ regression automation** coverage achieved  
-- 🔗 **200+ integrations & data migrations objects** delivered  
-- 🚀 **Cross-region QA strategies** implemented for scalable delivery  
-- 📊 **End-to-end visibility** with reporting dashboards & analytics
+- **3+ years** in QA & Automation (Deloitte + NPI)  
+- **80%+ regression automation** coverage achieved  
+- **200+ integrations & data migrations objects** delivered  
+- **Cross-region QA strategies** implemented for scalable delivery  
+- **End-to-end visibility** with reporting dashboards & analytics
 
 ## 💼 Experience  
 > Journey so far 🚀  
@@ -129,4 +129,4 @@ My focus is on **Cypress-first automation**, **release quality**, and **fast fee
 - [Why Cypress? The Tool I Trust as a Frontend Tester](https://medium.com/@bhavan0507/by-bhavanandhan-radhakrishnan-software-test-engineer-0f8d4795a3b3)  
 - [Agile QA: What I Actually Do During a Sprint](https://medium.com/@bhavan0507/why-qa-is-more-than-just-testing-in-agile-projects-3eef8555c733)  
 
-> 📝 *“Tests don’t just catch bugs they build confidence.”*  
+> *“Tests don’t just catch bugs they build confidence.”*  
