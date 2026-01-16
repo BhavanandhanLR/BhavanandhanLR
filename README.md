@@ -17,7 +17,7 @@ My focus is on **Cypress-first automation**, **release quality**, and **fast fee
 - Balancing **automation depth** with **thorough manual exploration**, ensuring no critical paths are missed.  
 
 ## 🌟 Key Highlights  
-- **3+ years** in QA & Automation (Deloitte + NPI)  
+- **4+ years** in QA & Automation (Deloitte + NPI)  
 - **80%+ regression automation** coverage achieved  
 - **200+ integrations & data migrations objects** delivered  
 - **Cross-region QA strategies** implemented for scalable delivery  
