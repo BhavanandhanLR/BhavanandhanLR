@@ -14,10 +14,10 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 
 - 🔭 Leading **3 cross-functional QA teams** across a live fintech payments platform covering **merchant onboarding, invoicing, credit notes, payment processing, and partner commission payouts** and a greenfield SaaS product currently in MVP
 - 🏗️ Architecting **Cypress Data Factory frameworks** for multi-region, multi-currency test coverage
-- 🔐 Specialised in **fintech QA** — AML/KYC, EMI/PayFac, Fund Settlement & Merchant Onboarding
+- 🔐 Specialised in **fintech QA**, AML/KYC,PayFac, Fund Settlement & Merchant Onboarding
 - ⚡ Enforcing **1.5-day testing SLAs** across **24 developers and 3 squads**
-- 🌍 Delivered **UK market expansion** QA strategy — KYC & onboarding validation from scratch
-- 📜 **ISTQB CTFL v4.0** certified — Mar 2026
+- 🌍 Delivered **UK market expansion** QA strategy KYC & onboarding validation from scratch, platform built in a span of 3 months using Ireland's platform as base
+- 📜 **ISTQB CTFL v4.0** certified  (Mar 2026)
 - ✍️ Writing about QA on [Medium](https://medium.com/@bhavan0507)
 
 ---
@@ -28,9 +28,9 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 |---|---|
 | 🚀 | Promoted to QA Lead within **11 months** at NPI |
 | 👥 | Managing **3 QA teams** (Lifecycle, Verify, Settle) across a live fintech payments platform |
-| 🌍 | Architected **UK market expansion** QA strategy from scratch |
+| 🌍 | Architected **UK market expansion** QA strategy |
 | 💳 | Maintained **99.8% platform stability** across **2 SaaS Platforms** |
-| ⚡ | Replaced a **6-person manual workflow** with a single automated file upload — eliminating **20+ days of labour monthly** |
+| ⚡ | Replaced a **6-person manual workflow** with a single automated file upload eliminating **20+ days of labour monthly** |
 | 🔁 | Eliminated manual Go-Live regression full **Cypress CI/CD pipeline** with GitHub Actions |
 | 📊 | **80%+ regression automation** coverage delivered at Deloitte |
 | 🔗 | **200+ RICEW objects** migrated across Finance, Supply Chain, HR & WFM at Deloitte |
@@ -169,7 +169,7 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 
 ## 🌱 Currently
 
-- 🔭 Building a **public Cypress automation boilerplate** with Data Factory pattern
+- 🔭 Building a **public Cypress automation boilerplate** 
 - 📖 Exploring **Playwright** for next-gen E2E automation and **AI-assisted test generation**
 - 💬 Ask me about: **Cypress · API Testing · CI/CD Pipelines · Fintech QA**
 
