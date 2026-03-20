@@ -160,13 +160,6 @@ QA Team Lead based in Dublin — the person who has ruined more *"it's ready to 
 
 ---
 
-## 📊 GitHub Stats
-
-![Bhavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavanandhanlr&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavanandhanlr&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## ✍️ Latest Blog Posts
 
 - [Why Cypress? The Tool I Trust as a Frontend Tester](https://medium.com/@bhavan0507/by-bhavanandhan-radhakrishnan-software-test-engineer-0f8d4795a3b3)
