@@ -135,7 +135,7 @@ QA Team Lead based in Dublin — the person who has ruined more *"it's ready to 
   <tr>
     <td width="50%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60" /><br/>
-      <b>Oracle Database: Introduction to SQL Ed2</b><br/>
+      <b>Oracle PL/SQL Developer</b><br/>
       <sub>Oracle · Mar 2020 · Credential ID: 50523507</sub>
     </td>
     <td width="50%">
