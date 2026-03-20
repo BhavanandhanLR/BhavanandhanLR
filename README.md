@@ -31,7 +31,7 @@ QA Team Lead based in Dublin — the person who has ruined more *"it's ready to 
 | 🌍 | Architected **UK market expansion** QA strategy from scratch |
 | 💳 | Maintained **99.8% platform stability** across **2 SaaS Platforms** |
 | ⚡ | Replaced a **6-person manual workflow** with a single automated file upload — eliminating **20+ days of labour monthly** |
-| 🔁 | Eliminated manual Go-Live regression — full **Cypress CI/CD pipeline** with GitHub Actions |
+| 🔁 | Eliminated manual Go-Live regression full **Cypress CI/CD pipeline** with GitHub Actions |
 | 📊 | **80%+ regression automation** coverage delivered at Deloitte |
 | 🔗 | **200+ RICEW objects** migrated across Finance, Supply Chain, HR & WFM at Deloitte |
 
