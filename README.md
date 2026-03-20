@@ -12,7 +12,7 @@ QA Team Lead based in Dublin — the person who has ruined more *"it's ready to 
 
 ## ⚡ About Me
 
-- 🔭 Leading **3 cross-functional QA teams** across a live fintech payments platform — covering **merchant onboarding, invoicing, credit notes, payment processing, and partner commission payouts** — and a greenfield SaaS product currently in MVP
+- 🔭 Leading **3 cross-functional QA teams** across a live fintech payments platform covering **merchant onboarding, invoicing, credit notes, payment processing, and partner commission payouts** and a greenfield SaaS product currently in MVP
 - 🏗️ Architecting **Cypress Data Factory frameworks** for multi-region, multi-currency test coverage
 - 🔐 Specialised in **fintech QA** — AML/KYC, EMI/PayFac, Fund Settlement & Merchant Onboarding
 - ⚡ Enforcing **1.5-day testing SLAs** across **24 developers and 3 squads**
