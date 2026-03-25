@@ -175,4 +175,4 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 
 ---
 
-> *"Tests don't just catch bugs — they build confidence."*
+> *"Tests don't just catch bugs, they build confidence."*
