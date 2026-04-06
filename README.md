@@ -6,7 +6,6 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhavanlr.vercel.app/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhavan0507)
 
----
 
 ## ⚡ About Me
 
@@ -18,7 +17,6 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 - 📜 **ISTQB CTFL v4.0** certified  (Mar 2026)
 - ✍️ Writing about QA on [Medium](https://medium.com/@bhavan0507)
 
----
 
 ## 🏆 Key Achievements
 
@@ -31,8 +29,6 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 | 🔁 | Eliminated manual Go-Live regression full **Cypress CI/CD pipeline** with GitHub Actions |
 | 📊 | **80%+ regression automation** coverage delivered at Deloitte |
 | 🔗 | **200+ RICEW objects** migrated across Finance, Supply Chain, HR & WFM at Deloitte |
-
----
 
 ## 💼 Experience
 
@@ -65,7 +61,6 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
   </tr>
 </table>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -111,7 +106,6 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" /></a>
 </p>
 
----
 
 ## 📜 Certifications
 
@@ -155,14 +149,12 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
   </tr>
 </table>
 
----
 
 ## ✍️ Latest Blog Posts
 
 - [Why Cypress? The Tool I Trust as a Frontend Tester](https://medium.com/@bhavan0507/by-bhavanandhan-radhakrishnan-software-test-engineer-0f8d4795a3b3)
 - [Agile QA: What I Actually Do During a Sprint](https://medium.com/@bhavan0507/why-qa-is-more-than-just-testing-in-agile-projects-3eef8555c733)
 
----
 
 ## 🌱 Currently
 
@@ -170,6 +162,5 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 - 📖 Exploring **Playwright** for next-gen E2E automation and **AI-assisted test generation**
 - 💬 Ask me about: **Cypress · API Testing · CI/CD Pipelines · Fintech QA**
 
----
 
 > *"Tests don't just catch bugs, they build confidence."*
