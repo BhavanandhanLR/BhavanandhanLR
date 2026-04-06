@@ -23,7 +23,6 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 ## 🏆 Key Achievements
 
 | | |
-|---|---|
 | 🚀 | Promoted to QA Lead within **11 months** at NPI |
 | 👥 | Managing **3 QA teams** (Lifecycle, Verify, Settle) across a live fintech payments platform |
 | 🌍 | Architected **UK market expansion** QA strategy |
