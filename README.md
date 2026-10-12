@@ -68,6 +68,9 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
   <a href="https://www.cypress.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cypress&theme=light&ts=1" height="40" />
   </a>
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright" />
+  </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman&ts=1" height="40" />
   </a>
@@ -96,6 +99,9 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 <p>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js&ts=1" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=ts&ts=1" height="40" /> 
   </a>
   <a href="https://www.postgresql.org/docs/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
@@ -210,6 +216,7 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 ## 🌱 Currently
 
 - 🔭 Building a **public Cypress automation boilerplate**
+- 🎭 Developing **Playwright automation** with **TypeScript** for end-to-end testing 
 - 📖 Exploring **Playwright** for next-gen E2E automation and **AI-assisted test generation**
 - 💬 Ask me about: **Cypress · API Testing · CI/CD Pipelines · Fintech QA**
 
