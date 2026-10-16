@@ -218,6 +218,6 @@ QA Team Lead based in Dublin, the person who has ruined more *"it's ready to shi
 - 🔭 Building a **public Cypress automation boilerplate**
 - 🎭 Developing **Playwright automation** with **TypeScript** for end-to-end testing 
 - 📖 Exploring **Playwright** for next-gen E2E automation and **AI-assisted test generation**
-- 💬 Ask me about: **Cypress · API Testing · CI/CD Pipelines · Fintech QA**
+- 💬 Ask me about: **Cypress · Playwright · CI/CD Pipelines · Fintech QA**
 
 > *"Tests don't just catch bugs, they build confidence."*
